@@ -1,2 +1,2 @@
 # pokedex
-Pokedex and Pokegame made with React.
+My first handson with React
